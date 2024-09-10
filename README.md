@@ -5,7 +5,7 @@ Python project that constructs a grpah and traverses it in BFS, you can see the 
 ## Installation: 
 - clone repo:
 ```bash
-git clone 
+git clone https://github.com/shilpa-bo/graph-animation.git
 ```
 - create venv and install requirements:
 ```bash
